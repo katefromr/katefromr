@@ -1,5 +1,5 @@
 - Hello, hola, marhaba! I'm Catherine from Russia.
-- I learn programming by myself with free courses, videos and Google:D And I really enjoy writing code
+- I learn programming and web design by myself with free courses, videos and Google:D And I really enjoy writing code
 - Concentrated on Python, but also know about JS, Vue, HTML, CSS
 - Telegram: @katefromr
 
